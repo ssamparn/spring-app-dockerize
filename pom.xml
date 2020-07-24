@@ -68,7 +68,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>spring-app-dockerized</finalName>
+		<finalName>dockerized-spring-app</finalName>
 	</build>
 
 </project>
